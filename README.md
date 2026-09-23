@@ -14,7 +14,7 @@ The main lab materials are located in the `unit-testing-junit/` directory, which
 
 ## Getting Started
 
-Navigate to the `unit-testing-junit/` directory to begin the lab:
+Navigate to the `unit-testing-junit/` directory to see the work:
 
 ```bash
 cd unit-testing-junit
